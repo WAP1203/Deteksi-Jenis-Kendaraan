@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<opencv_storage>
+    <opencv-haar-classifier>
+        
+        <
+
+ 
+<size>
+            20 20
+        
+            20 20
+      
+        >
+         
+</size>
+        
+     
+<stageType>BOOST</stageType>
+        <featureType>HAAR</featureType>
+        
+     
+<height>20</height>
+        
+       
+<width>20</width>
+        <stageParams>
+            
+        
+<maxWeakCount>100</maxWeakCount>
+            
+       
+<stageThreshold>0.5</stageThreshold>
+        
+        </st>
+</stageParams>
+        
+ ?
+<features>
+            
+            <!-
+
+   
+<!-- Add features based on your training data -->
+            
+            >
+
+   
+<_>
+                
+               
+
+      
+<rects>
+                    
+                  
+
+         
+<_>
+                        5 5 10 10 -1
+                    
+                        5 5 10 10 -1
+            
+
+                        5 5 10 10 -1
+       
+
+                        5 5 10 10 -1
+  
+
+                        5 5 10 10
+
+                        5 5 10 
+
+                        5 5 10
+
+                     
+
+            
+
+   
+</_>
+                
+               
+</rects>
+                
+       
+<tilted>0</tilted>
+            
+      
+</_>
+            
+      
+<!-- Add more features as needed -->
+        
+        
+</features>
+        
+     
+<internalNodes>
+            
+            <!-
+<!-- Add internal nodes based on your training data -->
+            
+            
+
+      
+<_>
+                0 -1 1 -0.381686
+            
+                0 -1 1 -0.381686
+ 
+
+                0 -
+
+          
+
+            >
+
+  
+</_>
+            
+            <!-
+<!-- Add more internal nodes as needed -->
+        
+        </internalNod
+</internalNodes>
+        <leafValues>
+        >
+            >
+            
+<!-- Add leaf values based on your training data -->
+            
+    
+<_>
+                0.556676 -0.556676
+            
+                0.556676 -0.556676
+            
+
+                0.556676 -0.556676
+
+                0.5
+
+    
+</_>
+            <!-- Add more leaf values as needed -->
+        
+        <
+</leafValues>
+        >
+    </opencv-haar-classifi>
+
+    </opencv->
+</opencv-haar-classifier>
+
+</opencv_>
+</opencv_storage>
